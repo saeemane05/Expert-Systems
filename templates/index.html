@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hospital Expert System</title>
+</head>
+
+<body>
+
+<h1>Hospital Expert System</h1>
+
+<form method="post">
+    <input type="text" name="symptoms" placeholder="fever, cough" required>
+    <button type="submit">Check</button>
+</form>
+
+{% if results %}
+    <h2>Results</h2>
+
+    {% for r in results %}
+        <div>
+            <h3>{{ r.disease }}</h3>
+            <p>Confidence: {{ r.confidence }}%</p>
+            <p>Severity: {{ r.severity }}</p>
+            <p>Advice: {{ r.advice }}</p>
+            <p>Doctor: {{ r.doctor }}</p>
+            <p>Urgency: {{ r.urgency }}</p>
+        </div>
+    {% endfor %}
+{% endif %}
+
+</body>
+</html>

@@ -1,0 +1,99 @@
+disease,advice,doctor,urgency
+flu,Consult a general physician for evaluation.,General Physician,routine
+common_cold,Consult a general physician for evaluation.,General Physician,routine
+migraine,Consult a general physician for evaluation.,General Physician,routine
+heart_attack,Consult a cardiologist for heart health evaluation.,Cardiologist,urgent
+food_poisoning,Consult a general physician for evaluation.,General Physician,routine
+viral_fever,"Rest, hydrate, and consult a physician if symptoms worsen.",General Physician,routine
+allergy,Consult a general physician for evaluation.,General Physician,routine
+dengue,Consult a general physician for evaluation.,General Physician,routine
+urinary_tract_infection,"Rest, hydrate, and consult a physician if symptoms worsen.",General Physician,routine
+diabetes_warning,Monitor blood sugar and consult an endocrinologist.,Endocrinologist,urgent
+asthma,Consult a general physician for evaluation.,General Physician,routine
+appendicitis_warning,Consult a general physician for evaluation.,General Physician,routine
+hepatitis_warning,Consult a general physician for evaluation.,General Physician,routine
+muscle_strain,Consult a general physician for evaluation.,General Physician,routine
+conjunctivitis,Consult a general physician for evaluation.,General Physician,routine
+allergic_rhinitis,Consult a general physician for evaluation.,General Physician,routine
+chikungunya_warning,Consult a general physician for evaluation.,General Physician,routine
+panic_attack,Consult a general physician for evaluation.,General Physician,routine
+high_blood_pressure_warning,Consult a cardiologist for heart health evaluation.,Cardiologist,urgent
+malaria,Consult a general physician for evaluation.,General Physician,routine
+typhoid,Consult a general physician for evaluation.,General Physician,routine
+covid_like_infection,"Rest, hydrate, and consult a physician if symptoms worsen.",General Physician,routine
+anemia,Consult a general physician for evaluation.,General Physician,routine
+dehydration,Consult a general physician for evaluation.,General Physician,routine
+sinusitis,Consult a general physician for evaluation.,General Physician,routine
+arthritis,Consult a rheumatologist for joint pain.,Rheumatologist,routine
+constipation,Consult a general physician for evaluation.,General Physician,routine
+ear_infection,"Rest, hydrate, and consult a physician if symptoms worsen.",General Physician,routine
+kidney_infection,"Rest, hydrate, and consult a physician if symptoms worsen.",General Physician,routine
+jaundice,Consult a general physician for evaluation.,General Physician,routine
+heart_failure,Consult a cardiologist for heart health evaluation.,Cardiologist,urgent
+meningitis,Consult a general physician for evaluation.,General Physician,routine
+colorectal_cancer,Consult an oncologist for diagnosis and treatment.,Oncologist,urgent
+tuberculosis,Consult a general physician for evaluation.,General Physician,routine
+migraine_with_aura,Consult a general physician for evaluation.,General Physician,routine
+hypothyroidism,Consult a general physician for evaluation.,General Physician,routine
+diabetes_mellitus,Monitor blood sugar and consult an endocrinologist.,Endocrinologist,urgent
+chronic_obstructive_pulmonary_disease,Consult a general physician for evaluation.,General Physician,routine
+ovarian_cyst,Consult a general physician for evaluation.,General Physician,routine
+polycystic_ovary_syndrome,Consult a general physician for evaluation.,General Physician,routine
+gerd,Consult a general physician for evaluation.,General Physician,routine
+stroke,Consult a general physician for evaluation.,General Physician,routine
+tonsillitis,Consult a general physician for evaluation.,General Physician,routine
+pink_eye,Consult an ophthalmologist for eye care.,Ophthalmologist,routine
+tinnitus,Consult a general physician for evaluation.,General Physician,routine
+bladder_infection,"Rest, hydrate, and consult a physician if symptoms worsen.",General Physician,routine
+hyperthyroidism,Consult a general physician for evaluation.,General Physician,routine
+rheumatoid_arthritis,Consult a rheumatologist for joint pain.,Rheumatologist,routine
+psoriasis,Consult a general physician for evaluation.,General Physician,routine
+alzheimers_disease,Consult a general physician for evaluation.,General Physician,routine
+myocardial_infarction,Consult a general physician for evaluation.,General Physician,routine
+pancreatitis,Consult a general physician for evaluation.,General Physician,routine
+atrial_fibrillation,Consult a general physician for evaluation.,General Physician,routine
+hiv_aids,Consult a general physician for evaluation.,General Physician,routine
+peritonitis,Consult a general physician for evaluation.,General Physician,routine
+retinal_detachment,Consult a general physician for evaluation.,General Physician,routine
+esophageal_cancer,Consult an oncologist for diagnosis and treatment.,Oncologist,urgent
+colon_cancer,Consult an oncologist for diagnosis and treatment.,Oncologist,urgent
+brain_tumor,Consult an oncologist for diagnosis and treatment.,Oncologist,urgent
+gout,Consult a general physician for evaluation.,General Physician,routine
+diabetic_ketoacidosis,Consult a general physician for evaluation.,General Physician,routine
+bronchitis,Consult a general physician for evaluation.,General Physician,routine
+intestinal_obstruction,Consult a general physician for evaluation.,General Physician,routine
+pneumonia,Consult a general physician for evaluation.,General Physician,routine
+diabetic_neuropathy,Consult a general physician for evaluation.,General Physician,routine
+leukemia,Consult a general physician for evaluation.,General Physician,routine
+glaucoma,Consult a general physician for evaluation.,General Physician,routine
+labyrinthitis,Consult a general physician for evaluation.,General Physician,routine
+vaginitis,Consult a general physician for evaluation.,General Physician,routine
+breast_cancer,Consult an oncologist for diagnosis and treatment.,Oncologist,urgent
+testicular_torsion,Consult a general physician for evaluation.,General Physician,routine
+prostate_cancer,Consult an oncologist for diagnosis and treatment.,Oncologist,urgent
+endometriosis,Consult a general physician for evaluation.,General Physician,routine
+menopause,Consult a general physician for evaluation.,General Physician,routine
+prostatitis,Consult a general physician for evaluation.,General Physician,routine
+uterine_fibroids,Consult a general physician for evaluation.,General Physician,routine
+peptic_ulcer,Consult a general physician for evaluation.,General Physician,routine
+lyme_disease,Consult a general physician for evaluation.,General Physician,routine
+multiple_sclerosis,Consult a general physician for evaluation.,General Physician,routine
+parkinsons_disease,Consult a general physician for evaluation.,General Physician,routine
+schizophrenia,Consult a general physician for evaluation.,General Physician,routine
+major_depressive_disorder,Consult a general physician for evaluation.,General Physician,routine
+obsessive_compulsive_disorder,Consult a general physician for evaluation.,General Physician,routine
+post_traumatic_stress_disorder,Consult a general physician for evaluation.,General Physician,routine
+bipolar_disorder,Consult a general physician for evaluation.,General Physician,routine
+fibromyalgia,Consult a general physician for evaluation.,General Physician,routine
+chronic_fatigue_syndrome,Consult a general physician for evaluation.,General Physician,routine
+sjogrens_syndrome,Consult a general physician for evaluation.,General Physician,routine
+lupus,Consult a general physician for evaluation.,General Physician,routine
+high,Consult a general physician for evaluation.,General Physician,routine
+peripheral_neuropathy,Consult a general physician for evaluation.,General Physician,routine
+arrhythmia,Consult a general physician for evaluation.,General Physician,routine
+hypertension,Consult a general physician for evaluation.,General Physician,routine
+hypotension,Consult a general physician for evaluation.,General Physician,routine
+pulmonary_embolism,Consult a general physician for evaluation.,General Physician,routine
+deep_vein_thrombosis,Consult a general physician for evaluation.,General Physician,routine
+venous_insufficiency,Consult a general physician for evaluation.,General Physician,routine
+aortic_aneurysm,Consult a general physician for evaluation.,General Physician,routine
