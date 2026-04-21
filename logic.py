@@ -11,11 +11,11 @@ import pandas as pd
 symptoms_df = pd.read_csv('symptoms_disease.csv')
 advice_df = pd.read_csv('disease_advice.csv')
 
-# Select key symptoms for efficient diagnosis
+# Select key symptoms for efficient diagnosis (10-12 main symptoms)
 KEY_SYMPTOMS = [
-    'fever', 'cough', 'headache', 'nausea', 'fatigue', 'chest_pain', 
-    'shortness_of_breath', 'abdominal_pain', 'diarrhea', 'vomiting', 
-    'rash', 'dizziness', 'joint_pain', 'sore_throat', 'loss_of_appetite'
+    'fever', 'cough', 'headache', 'nausea', 'fatigue', 
+    'chest_pain', 'shortness_of_breath', 'abdominal_pain', 
+    'diarrhea', 'vomiting', 'sore_throat'
 ]
 
 # Custom options for different symptoms
@@ -30,11 +30,7 @@ SYMPTOM_OPTIONS = {
     'abdominal_pain': {"None": 0, "Mild": 1, "Moderate": 2, "Severe": 3},
     'diarrhea': {"None": 0, "Occasional": 1, "Frequent": 2, "Severe": 3},
     'vomiting': {"None": 0, "Occasional": 1, "Frequent": 2, "Severe": 3},
-    'rash': {"None": 0, "Mild": 1, "Moderate": 2, "Severe": 3},
-    'dizziness': {"None": 0, "Mild": 1, "Moderate": 2, "Severe": 3},
-    'joint_pain': {"None": 0, "Mild": 1, "Moderate": 2, "Severe": 3},
     'sore_throat': {"None": 0, "Mild": 1, "Moderate": 2, "Severe": 3},
-    'loss_of_appetite': {"None": 0, "Mild": 1, "Moderate": 2, "Severe": 3},
 }
 
 # Severity options
